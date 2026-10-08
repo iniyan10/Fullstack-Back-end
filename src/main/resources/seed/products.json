@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "TechPro Max Smartwatch",
+    "description": "Advanced smartwatch with heart rate monitoring, GPS, and a sleek dark design. Perfect for tech enthusiasts.",
+    "price": 4999,
+    "category": "male",
+    "type": "smart",
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Quantum Series 5",
+    "description": "Stay connected with notifications, fitness tracking, and a vibrant OLED display.",
+    "price": 3499,
+    "category": "male",
+    "type": "smart",
+    "rating": 4.2,
+    "reviews": 85,
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Endurance Pro G-Shock",
+    "description": "Rugged, water-resistant sports watch built for extreme conditions. Built-in compass and altimeter.",
+    "price": 2599,
+    "category": "male",
+    "type": "sports",
+    "rating": 4.8,
+    "reviews": 300,
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "AeroRunner Active",
+    "description": "Lightweight and durable, designed for marathon runners and athletes.",
+    "price": 1899,
+    "category": "male",
+    "type": "sports",
+    "rating": 4.0,
+    "reviews": 45,
+    "image": "https://m.media-amazon.com/images/I/61tIT7lJdNL._AC_UY1000_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Royal Enclave Classic",
+    "description": "Elegant silver stainless steel dial with premium leather strap. Perfect for business meetings.",
+    "price": 5999,
+    "category": "male",
+    "type": "formal",
+    "rating": 4.9,
+    "reviews": 210,
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Obsidian Elite Chronograph",
+    "description": "Luxury chronograph with a matte black finish and precise quartz movement.",
+    "price": 7499,
+    "category": "male",
+    "type": "formal",
+    "rating": 4.7,
+    "reviews": 155,
+    "image": "https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Aura Smart Fit",
+    "description": "Stylish pink-gold smartwatch tailored for women with health monitoring features.",
+    "price": 4299,
+    "category": "female",
+    "type": "smart",
+    "rating": 4.6,
+    "reviews": 190,
+    "image": "https://www.boat-lifestyle.com/cdn/shop/files/1_d3962177-439e-4a98-b9e3-801b1a910bc9_1500x.png?v=1738213247"
+  },
+  {
+    "id": 8,
+    "name": "Nova Connect Lite",
+    "description": "Compact and elegant smart band with customizable watch faces.",
+    "price": 2999,
+    "category": "female",
+    "type": "smart",
+    "rating": 4.3,
+    "reviews": 112,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Flexi T-Active",
+    "description": "Sweat-proof silicone strap and digital display for your intense workout sessions.",
+    "price": 1599,
+    "category": "female",
+    "type": "sports",
+    "rating": 4.1,
+    "reviews": 88,
+    "image": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Aqua Dash Series",
+    "description": "Waterproof up to 50m, perfect for swimming and outdoor activities.",
+    "price": 2199,
+    "category": "female",
+    "type": "sports",
+    "rating": 4.4,
+    "reviews": 76,
+    "image": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Rose Gold Elegance",
+    "description": "A minimalist rose gold analog watch with embedded crystals. For special occasions.",
+    "price": 6499,
+    "category": "female",
+    "type": "formal",
+    "rating": 4.8,
+    "reviews": 420,
+    "image": "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Pearl White Harmony",
+    "description": "Classic design with a mother-of-pearl dial and a sleek metal mesh band.",
+    "price": 5299,
+    "category": "female",
+    "type": "formal",
+    "rating": 4.5,
+    "reviews": 135,
+    "image": "data:image/jpeg;base64,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"
+  }
+]
